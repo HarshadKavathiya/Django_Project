@@ -1,1 +1,3 @@
 website/.idea/*
+website/website/__pycache__/*
+website/music/__pycache__/*
